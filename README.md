@@ -6,3 +6,9 @@
 ### accuracy score was 84% and I think so too 😎
 ### 🧡✨ I'm so happy. 
 ### Cuz it was my first machine learning and I wanted to make it from the old days. ✨🧡
+
+``` Python
+import emotion
+print(emotion.emo("So scared"))
+'fear'
+```
