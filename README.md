@@ -8,7 +8,7 @@
 ### Cuz it was my first machine learning and I wanted to make it from the old days. ✨🧡
 
 ``` Python
-import emotion
-print(emotion.emo("So scared"))
-'fear'
+>>> import emotion
+>>> print(emotion.emo("So scared"))
+>>> 'fear'
 ```
