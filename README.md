@@ -1,4 +1,4 @@
-# sentence-emotion-analysis-english-
+# sentence_emotion_analysis-english-
 
 ### 😊 this is sentence emotion analysis MachineLearning(AI) 😊
 ### It is a work I made for a day 😁
