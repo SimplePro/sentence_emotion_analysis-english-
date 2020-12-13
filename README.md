@@ -9,6 +9,6 @@
 
 ``` Python
 >>> import emotion
->>> print(emotion.emo("So scared"))
+>>> emotion.emo("So scared")
 >>> 'fear'
 ```
